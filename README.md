@@ -1,5 +1,5 @@
 
-# Sentiment analysis
+# Image gallery
 
 This project returns the images based on the query using Unsplash API.
 
